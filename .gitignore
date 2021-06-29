@@ -1,0 +1,12 @@
+.DS_Store
+.idea
+*.ai
+*.log
+*.pdf
+*.psd
+build/
+build-remote/
+node_modules/
+preview/
+npm-debug.log*
+Thumbs.db
